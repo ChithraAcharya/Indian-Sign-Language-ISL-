@@ -1,0 +1,158 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     INDIAN SIGN LANGUAGE CONVERTER                            ║
+║     How to Run the Project                                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+📋 QUICK START (Easiest Way):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   Double-click:  START_HERE.bat
+
+   That's it! The project will:
+   ✓ Check Python installation
+   ✓ Install dependencies automatically
+   ✓ Start the server
+   ✓ Open browser automatically
+
+
+📁 AVAILABLE BATCH FILES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. START_HERE.bat ⭐ RECOMMENDED
+   → Main entry point, easiest to use
+   → Full setup and run in one click
+
+2. run_project.bat
+   → Detailed output with all checks
+   → Shows step-by-step progress
+   → Best for troubleshooting
+
+3. run_project_simple.bat
+   → Quick start, minimal output
+   → Fastest way to run
+
+4. install_and_run.bat
+   → Installs dependencies first
+   → Then runs the server
+   → Good for first-time setup
+
+5. start_api_server.bat
+   → Original API server starter
+   → Shows API endpoints
+
+
+🔧 REQUIREMENTS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   ✓ Python 3.6 or higher
+   ✓ Internet connection (for first-time setup)
+   ✓ All project files in the same folder
+
+
+📂 PROJECT FILES INCLUDED:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   Core Files:
+   • app.py              - Flask API server
+   • index.html          - Main web page
+   • script.js           - Frontend JavaScript
+   • styles.css          - Styling
+   • requirements.txt    - Python dependencies
+
+   Folders:
+   • ISL_Gifs/          - Phrase/word GIFs
+   • letters/           - Letter images
+
+   Batch Files:
+   • START_HERE.bat     - Main runner ⭐
+   • run_project.bat    - Detailed runner
+   • run_project_simple.bat - Quick runner
+   • install_and_run.bat - Install first
+   • start_api_server.bat - API server
+
+   Documentation:
+   • README.md          - Main documentation
+   • README_BATCH_FILES.md - Batch file guide
+   • API_DOCUMENTATION.md - API reference
+   • And more...
+
+
+🚀 WHAT HAPPENS WHEN YOU RUN:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   1. Checks Python installation
+   2. Verifies project files exist
+   3. Installs Flask and dependencies (if needed)
+   4. Checks if port 5000 is available
+   5. Starts Flask server
+   6. Opens browser automatically
+   7. Server runs on: http://localhost:5000
+
+
+🌐 AFTER SERVER STARTS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   • Browser opens automatically
+   • Click "Start Voice Input"
+   • Allow microphone access
+   • Speak a phrase or word
+   • Watch GIFs play in video format!
+
+
+⚠️ TROUBLESHOOTING:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   Problem: "Python is not installed"
+   Solution: Install Python from python.org
+             Make sure to check "Add Python to PATH"
+
+   Problem: "Port 5000 is already in use"
+   Solution: Close other instances or change port in app.py
+
+   Problem: "Dependencies installation failed"
+   Solution: Check internet connection
+             Or run: pip install Flask flask-cors
+
+   Problem: "app.py not found"
+   Solution: Make sure batch file is in project folder
+
+
+📝 NOTES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   • All batch files change to their directory automatically
+   • Browser opens automatically after 2-3 seconds
+   • Press Ctrl+C to stop the server
+   • Server runs on http://localhost:5000
+   • All files include error handling
+
+
+✅ SUCCESS INDICATORS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   When everything works, you'll see:
+   ✓ Python version displayed
+   ✓ Files found
+   ✓ Dependencies installed/verified
+   ✓ Server starting message
+   ✓ Browser opens automatically
+   ✓ Server running on http://localhost:5000
+
+
+🎯 RECOMMENDED WORKFLOW:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   First Time:  → START_HERE.bat
+   Daily Use:   → START_HERE.bat or run_project.bat
+   Quick Test:  → run_project_simple.bat
+   Troubleshoot: → run_project.bat (shows detailed output)
+
+
+═══════════════════════════════════════════════════════════════
+
+   Just double-click START_HERE.bat and you're ready to go! 🚀
+
+═══════════════════════════════════════════════════════════════
+
